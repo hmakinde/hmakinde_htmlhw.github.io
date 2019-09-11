@@ -1,2 +1,2 @@
-hmakinde_htmlhw.github.io
+http://hmakinde_htmlhw.github.io
 html
